@@ -21,7 +21,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --White: rgb(255,255,255); /*white color*/
   --White-Second: rgb(175, 175, 175); /*white but gray color*/
   --Red-color: rgb(255,0,0); /*red color*/
-  --Neon-Line: 150,0,150; /*master neon color*/
+  --Neon-Line: 212, 212, 212; /*master neon color*/
   --Neon-Line2: 255,0,0; /*red neon line*/
   --Neon-Rgb: var(--Neon-Line); /*neon node #1*/
   --Neon-Rgb2: var(--Neon-Line2); /*red noen node #2*/
