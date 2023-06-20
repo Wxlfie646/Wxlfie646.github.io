@@ -14,8 +14,8 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Secondary-Color: rgb(61, 61, 61); /*secondary color*/
   --Third-Color: rgb(56, 56, 56); /*third color*/
   --Color-4: rgb(69, 69, 69); /*color number 4*/
-  --Color-5: hsla(320, 40%, 40%, 0.366); /*color number 5*/
-  --Color-6: hsla(320, 50%, 50%, 0.466); /*color number 6*/
+  --Color-5: hsla(0°, 0%, 41%, 0.366); /*color number 5*/
+  --Color-6: hsla(0°, 0%, 30%, 0.466); /*color number 6*/
   --Grey-Color: rgb(31, 31, 31); /*grey color*/
   --Black: rgb(0,0,0); /*black color*/
   --White: rgb(255,255,255); /*white color*/
